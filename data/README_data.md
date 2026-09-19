@@ -3,6 +3,7 @@
 ## Source
 CDC Community Profile Report (HHS)
 URL: https://healthdata.gov/Health/COVID-19-Community-Profile-Report/gqxm-d9w9
+Uploaded Data DOI : https://zenodo.org/records/22846818
 
 ## Coverage
 - Geography : US counties (FIPS level), 3,221 unique counties
